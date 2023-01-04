@@ -1,0 +1,7 @@
+1-Open a new browser tab, and navigate to this same repository. Then, work on the steps in your second tab while you read the instructions in this tab.
+2-Navigate to the Code tab.
+3-Click on the main branch drop-down.
+4-In the field, enter a name for your branch: my-first-branch.
+5-Click Create branch: my-first-branch to create your branch.
+
+Note: If you made a public repository, and want to confirm you correctly set up your first branch, wait about 20 seconds then refresh this page (the one you're following instructions from). GitHub Actions will automatically close this step and open the next one.
